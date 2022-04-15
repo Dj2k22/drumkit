@@ -33,6 +33,7 @@ footer {
 
 .d {
   background-image: url('images/tom4.png');
+  
   background-size: cover;
 }
 
@@ -95,4 +96,7 @@ footer {
   color: white;
   font-family: "Arvo", cursive;
   font-size: 90%;
+}
+.footer-section{
+  font-family: "Arvo", cursive;
 }

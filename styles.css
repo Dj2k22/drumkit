@@ -92,6 +92,9 @@ footer {
   text-decoration: none;
   font-family: "Arvo", cursive;
 }
+.dijaunsmith:hover{
+  color:rgb(31, 31, 146);
+}
 .instructions{
   color: white;
   font-family: "Arvo", cursive;

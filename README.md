@@ -1,2 +1,2 @@
 # drumkit
-Drum Kit Web App
+Drum Kit Web Game

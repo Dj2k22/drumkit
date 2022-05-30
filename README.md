@@ -1,2 +1,2 @@
 # drumkit
-Drum Kit Web Game
+Drum Kit - Music Website
